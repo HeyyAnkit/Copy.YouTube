@@ -1,0 +1,59 @@
+.shorts-icon{
+    margin-left: 100px;
+    margin-top: 20px;
+    height: 54px;
+    width: 54px;
+    display: inline-block;
+
+
+}
+
+.shorts-grid{
+    position: relative;
+    top: 120px;
+    display: grid;
+    grid-template-columns: 215px 215px 215px 215px 215px;
+    column-gap: 10px;
+    
+
+    
+    
+}
+
+.shorts-title{
+padding-top: 20px;
+padding-left: 0;
+
+    
+}
+
+.title-container{
+    position: relative;
+    top: 120px;
+    left: -90px;
+    display: flex;
+    align-items: center;
+}
+
+
+.short-thumbnail{
+    height: 400px;
+    width: 215px;
+    border-radius: 14px;
+    
+}
+
+.short-box{
+    margin-top: 10px;
+ 
+    display: grid;
+/* grid-template-rows: 1fr 50px; */
+}
+
+.title-box{
+    
+}
+
+.shorts-title{
+    margin: 0 0 0 0;
+} 
